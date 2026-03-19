@@ -63,7 +63,5 @@ def main():
     result = simple_calculator(operation, num1, num2)
     print(f"The result is: {result}")
 
-
-
 if __name__ == "__main__":
     main()
